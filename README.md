@@ -1,5 +1,5 @@
 
-# Hair Studio Website ✂️
+# KeshKraft Website ✂️
 
 **A Beautiful and Responsive Website for Hair Studio Shop🪡**
 
