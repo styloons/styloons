@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 #banner{
-    background: linear-gradient(rgba(155, 39, 205, 0.019),#5c3378),url(img/banner.jpg);
+    background: linear-gradient(rgba(155, 39, 205, 0.019),#5c3378),url(banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
