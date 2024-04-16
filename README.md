@@ -1,7 +1,7 @@
 
-# KeshKraft Website ✂️
+# StyLoon's Website ✂️
 
-**A Beautiful and Responsive Website for Hair Studio Shop🪡**
+**A Beautiful and Responsive Website for Hair Saloon App🪡**
 
 
 ![Styloon's]
