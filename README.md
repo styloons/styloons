@@ -4,7 +4,7 @@
 **A Beautiful and Responsive Website for Hair Studio Shop🪡**
 
 
-![Hair Studio](https://user-images.githubusercontent.com/104723233/222148989-d8303a32-a11b-4dbc-9743-4771c22cbfa7.jpg)
+![Styloon's](https://user-images.githubusercontent.com/104723233/222148989-d8303a32-a11b-4dbc-9743-4771c22cbfa7.jpg)
 
 
 
